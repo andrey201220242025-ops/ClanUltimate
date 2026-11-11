@@ -1,6 +1,7 @@
 package com.example.clanultimate;
 
 import net.milkbowl.vault.economy.Economy;
+import com.example.clanultimate.ClanChatCommand;
 import org.bukkit.plugin.RegisteredServiceProvider;
 import org.bukkit.plugin.java.JavaPlugin;
 
